@@ -1,0 +1,51 @@
+
+header{
+    display: flex;
+}
+.corps{
+    display: flex;
+}
+
+header img{
+    height: 200px;
+}
+.baniere{
+    display: inline;
+    width: 80%;
+    background: #e9b200;
+}
+
+nav a{
+    display: block;
+    width: 177px;
+    padding: 5px;
+}
+nav, nav a{
+    border: solid 1px black;
+    margin: 3px;
+}
+.body{
+    margin-left: 10px;
+    width: 80%;
+}
+
+nav, .logo{
+    width: 200px;
+    height: 200px;
+}
+
+.images img{
+    height: 70px;
+}
+
+h1{
+    font-size: 2rem;
+}
+
+.imagesArticles img{
+    height: 157px;
+}
+
+.article{
+    display: inline-block;
+}
